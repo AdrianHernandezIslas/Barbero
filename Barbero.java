@@ -36,7 +36,7 @@ public class Barbero
     }
     
     public void imprimir(Queue<Integer> filaClientes){
-        for(Integer cliente:filaClientes){
+        for(Integer cliente:filaClientes){
             System.out.print(cliente+" ");
         }
         System.out.println();
